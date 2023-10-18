@@ -1,0 +1,13 @@
+[
+ {"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7534654,"lagTimeSeconds":127903,"time":"2023-09-14T14:48:33.058937255Z","message":"Replication progress."},
+ {"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7551288,"lagTimeSeconds":127930,"time":"2023-09-14T14:49:03.058787228Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7551288,"lagTimeSeconds":127930,"time":"2023-09-14T14:49:03.058787228Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7565589,"lagTimeSeconds":127955,"time":"2023-09-14T14:49:33.058854111Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7578832,"lagTimeSeconds":127980,"time":"2023-09-14T14:50:03.059428038Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7590709,"lagTimeSeconds":128001,"time":"2023-09-14T14:50:33.059295111Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7602260,"lagTimeSeconds":128029,"time":"2023-09-14T14:51:03.059096624Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7611974,"lagTimeSeconds":128049,"time":"2023-09-14T14:51:33.059161866Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7621642,"lagTimeSeconds":128062,"time":"2023-09-14T14:52:03.059053864Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7631314,"lagTimeSeconds":128100,"time":"2023-09-14T14:52:33.059424368Z","message":"Replication progress."},
+{"level":"info","serverID":"4ab83a64","mongosyncID":"coordinator","totalEventsApplied":7640774,"lagTimeSeconds":128123,"time":"2023-09-14T14:53:03.059276005Z","message":"Replication progress."}
+]
