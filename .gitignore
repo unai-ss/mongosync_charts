@@ -1,0 +1,17 @@
+edu/
+example/
+node_modules/
+example_zoom/
+example_mongosync/.parcel-cache
+example_mongosync/dist
+example_mongosync/imagenes
+example_mongosync/node_modules
+example_mongosync_Collection/.parcel-cache
+example_mongosync_Collection/dist
+example_mongosync_Collection/imagenes
+example_mongosync_Collection/node_modules
+example_mongosync_eventCount/.parcel-cache
+example_mongosync_eventCount/dist
+example_mongosync_eventCount/imagenes
+example_mongosync_eventCount/node_modules
+
